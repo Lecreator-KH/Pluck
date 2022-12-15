@@ -1,2 +1,5 @@
 To Spawn an reverse shell
 Go to Edit File
+
+:set shell=/bin/bash
+:shell
